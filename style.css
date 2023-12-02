@@ -1,0 +1,24 @@
+:root{
+    --text-color: #212121;
+    --main-color: red;
+    margin: 0 auto;
+}
+
+.menu-link{
+    color: var(--text-color);
+}
+.span-item{
+    color: var(--main-color);
+}
+.section-adress{
+    color: var(--text-color);
+}
+.team-item{
+    color: var(--text-color);
+}
+.title{
+    color: var(--text-color);
+}
+.span-title{
+    color: var(--main-colorw);
+}
